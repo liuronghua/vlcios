@@ -1,0 +1,38 @@
+/* About window title */
+"About" = "O";
+
+/* delete video alert */
+"Are you sure you want to delete \"%@\"?" = "Czy na pewno chcesz usunąć \"%@\"?";
+
+/* audio track selector
+   delete video alert
+   file too big alert */
+"Cancel" = "Anuluj";
+
+/* audio track selector */
+"Choose Audio Track" = "Wybierz ścieżkę dzwikow";
+
+/* delete video alert */
+"Delete" = "Usuń";
+
+/* delete video alert */
+"Delete video" = "Usuń wideo";
+
+/* edit bar button item */
+"Done" = "Gotowe";
+
+/* edit bar button item */
+"Edit" = "Edytuj";
+
+/* file too big alert */
+"Try anyway" = "Mimo wszystko spróbuj";
+
+/* file too big alert */
+"Warning" = "Ostrzeżenie";
+
+/* no media view content */
+"You currently don’t have any video in your VLC library. To add some videos for playback :\n  - Connect your __MVLC_DEVICE__ to your computer.\n  - In iTunes, select your __MVLC_DEVICE__, and then click the Apps tab.\n  - Below File Sharing, select \"VLC\" from the list, and then click Add.\n  - In the window that appears, select a file to transfer, and then click Choose." = "Aktualnie nie mal żadnych filmów w bibliotece VLC. Aby dodać kilka filmów do odtwarzania :\n  - Podłącz twój __MVLC_DEVICE__ do komputera.\n  - W iTunes wybierz twój __MVLC_DEVICE__, a następnie kliknij kartę Apps.\n  - Poniżej File Sharing, wybierz z listy \"VLC\", następnie kliknij przycisk Dodaj.\n  - W wyświetlonym oknie wybierz plik do przesłania, a następnie kliknij przycisk Wybierz.";
+
+/* file too big alert */
+"Your __MVLC_DEVICE__ is probably too slow to play this movie correctly." = "Twój __MVLC_DEVICE__ jest prawdopodobnie zbyt wolny aby proprawnie odtworzy ten film.";
+
